@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @martijnpiet
+- 🏥 I work at Utrecht University Medical Centre hospital
 - 🧠 I’m doing a PhD in epilepsy genetics genetics
 - 🧬 My currenty focus is on GWAS and PRS
 
