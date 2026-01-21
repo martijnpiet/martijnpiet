@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @martijnpiet
-- 👀 I’m interested in neuroimaging & computational neuroscience
-- 🌱 I’m currently learning imaging genetics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🧠 I’m doing a PhD in epilepsy genetics genetics
+- 🧬 My currenty focus is on GWAS and PRS
 
 <!---
 martijnpiet/martijnpiet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
